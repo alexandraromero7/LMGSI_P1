@@ -8,7 +8,7 @@
 .work-sans-uniquifier {
   font-family: "Work Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: weight;
   font-style: normal;
 }
 
@@ -19,5 +19,4 @@ nav { display: flex; justify-content: space-between; align-items: center; }
 nav ul { display: flex; gap: 32px; }
 .resultats { display: flex; gap: 24px; }
 .targeta { flex: 1; }
-
 
