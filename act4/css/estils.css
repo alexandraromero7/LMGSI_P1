@@ -1,3 +1,11 @@
+/* ===== DISTRIBUCIÓ (codi donat, no el modifiqueu) ===== */
+nav { display: flex; justify-content: space-between; align-items: center; }
+nav ul { display: flex; gap: 32px; }
+.resultats { display: flex; gap: 24px; }
+.targeta { flex: 1; }
+
+
+
 .bebas-neue-regular {
   font-family: "Bebas Neue", sans-serif;
   font-weight: 400;
@@ -12,11 +20,19 @@
   font-style: normal;
 }
 
+nav {
+  background-color: #0b3a5e;
+}
 
+footer {
+  background-color: #032541;
+  color:white;
+  padding: 20px;
+  text-align: center;
+  font-size: 14px;
+}
 
-/* ===== DISTRIBUCIÓ (codi donat, no el modifiqueu) ===== */
-nav { display: flex; justify-content: space-between; align-items: center; }
-nav ul { display: flex; gap: 32px; }
-.resultats { display: flex; gap: 24px; }
-.targeta { flex: 1; }
-
+header {
+  background-color: #0b2133;
+  padding: 15px 20px;
+}
